@@ -1,0 +1,12 @@
+devDependencies:
+  esbuild: 0.9.0
+lockfileVersion: 5.2
+packages:
+  /esbuild/0.9.0:
+    dev: true
+    hasBin: true
+    requiresBuild: true
+    resolution:
+      integrity: sha1-uDIN+FBI7RY3xrWe5Sq7okiTbTw=
+specifiers:
+  esbuild: ^0.9.0

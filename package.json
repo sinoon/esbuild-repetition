@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"build": "esbuild index.tsx --inject:./react-shim.js --outfile=index.js"
+	},
+	"devDependencies": {
+		"esbuild": "^0.9.0"
+	}
+}
